@@ -30,7 +30,7 @@ Estoy orientando mis habilidades técnicas al análisis de operaciones y la auto
 
 **Proyectos propios de mayor aplicación operativa:**
 
-- [Sala 13: sistema web de reservas](https://github.com/MASilva1/mi-primer-proyecto/tree/main/sala13-reservas-inteligentes)
+- [Sala 13: sistema web de reservas](https://github.com/MASilva1/sala13-booking-system)
 - [Gestión de solicitudes con IA, n8n y revisión humana](https://github.com/MASilva1/mi-primer-proyecto/tree/main/portfolio/idei-gestion-solicitudes-ia)
 
 [Portfolio principal](https://github.com/MASilva1/mi-primer-proyecto) · [LinkedIn](https://www.linkedin.com/in/matysilv/)
